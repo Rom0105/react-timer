@@ -1,0 +1,9 @@
+.label {
+  display: flex;
+  justify-content: center;
+}
+
+.input {
+  margin-left: 10px;
+  border: none;
+}
