@@ -48,7 +48,7 @@ function App() {
       setStart('waitTimer');
     });
 
-    return () => clickSubscribes.unsubscribe();
+    return () => clickSubscribes.unsubscribes();
   }, []);
 
   return (
